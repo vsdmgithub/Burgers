@@ -1,0 +1,9 @@
+N_log2 - Resolution of the simulation(log scale)
+14
+dt - Time step of the simulation
+0.01
+T - Total time of the simulation
+2.0
+S - No of saves to be made
+100
+

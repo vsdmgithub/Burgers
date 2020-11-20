@@ -1,0 +1,9 @@
+N - Resolution of the simulation
+4096
+dt - Time step of the simulation
+0.000001
+T - Total time of the simulation
+1.0
+S - No of saves to be made
+100
+
